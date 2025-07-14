@@ -15,7 +15,7 @@ The **MicroQuad-X250** is a 250mm diagonal-span quadcopter engineered to support
 
 This repository contains all project documentation, design visuals, and support materials for showcasing the platform in professional, academic, or prototyping environments.
 
----
+```
 
 ## 🧰 Repository Structure
 
@@ -29,7 +29,7 @@ MicroQuadX250_ModularDrone/
 ├── README.md              # You're here
 └── .gitignore             # Git ignore rules
 
----
+```
 
 ## ⚙️ Core Specifications
 
