@@ -1,4 +1,3 @@
-````markdown
 # MicroQuad-X250: Modular Educational Quadcopter Platform
 
 **An educational-grade modular UAV designed for hands-on learning, serviceability, and cost-effective deployment in STEM environments.**
@@ -9,10 +8,10 @@
 
 The **MicroQuad-X250** is a 250mm diagonal-span quadcopter engineered to support modular, repeatable assembly and educational accessibility. The design emphasizes:
 
-- **Component-level modularity** for repair and learning
-- **Single-tool assembly** for ease of use (2.5mm hex key)
-- **3-year classroom lifecycle** (500+ assembly cycles)
-- **Optimized cost structure** for educational deployment
+- **Component-level modularity** for repair and learning  
+- **Single-tool assembly** for ease of use (2.5mm hex key)  
+- **3-year classroom lifecycle** (500+ assembly cycles)  
+- **Optimized cost structure** for educational deployment  
 
 This repository contains all project documentation, design visuals, and support materials for showcasing the platform in professional, academic, or prototyping environments.
 
@@ -30,9 +29,7 @@ MicroQuadX250_ModularDrone/
 ├── LICENSE                # MIT License
 ├── README.md              # You're here
 ├── .gitignore             # Git ignore rules
-````
 
----
 
 ## ⚙️ Core Specifications
 
