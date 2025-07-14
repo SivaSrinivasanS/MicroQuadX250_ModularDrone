@@ -55,7 +55,9 @@ Tool Requirement	1× 2.5mm hex key
 Educational Lifespan	3+ years, 500+ cycles
 Payload Capacity	Up to 150g
 
+
 🧠 Key Features
+
 🔧 Modular Design: Replaceable arm, motor, and sensor modules
 
 🧲 Color-Coded Assembly: Intuitive visual guidance for students
@@ -66,24 +68,32 @@ Payload Capacity	Up to 150g
 
 📚 Well-Documented: Includes reports, CAD visuals, and presentation decks
 
+
 📄 Documentation
+
 📘 Project Report: Documentation/Reports/MicroQuadX250_Project_Report.pdf
 
 📊 Presentation: Documentation/Presentations/MicroQuadX250_Presentation_Slides.pdf
 
 🖼️ CAD Renders: See CAD_Visuals/ folder
 
+
 🔐 License
+
 This project is licensed under the MIT License.
 Feel free to use, modify, or redistribute with attribution.
 
+
 🙋‍♂️ Author
+
 Siva Srinivasan
 Educational Technologist | Mechanical Design Enthusiast
 🔗 LinkedIn
 🔗 GitHub
 
+
 🚀 Future Scope
+
 ✅ Add manufacturing-ready STLs
 
 ✅ Upload assembly video or animated GIF
@@ -91,5 +101,6 @@ Educational Technologist | Mechanical Design Enthusiast
 🔜 Interactive 3D CAD viewer (FreeCAD/WebGL)
 
 🔜 Add simulation results and stress analysis
+
 
 📢 This project is part of a larger mechanical design portfolio including PACJ (Portable AC Jacket) and HybridMarine-V1. Stay tuned for upcoming releases.
