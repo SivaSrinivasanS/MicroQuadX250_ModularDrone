@@ -45,48 +45,51 @@ MicroQuadX250_ModularDrone/
 
 ---
 
-## 🧠 Key Features
+⚙️ Core Specifications
+Parameter	Value
+Diagonal Span	250mm
+Total Weight	320–420g (Ready-to-Fly)
+Flight Time	10–15 minutes
+Assembly Time	25–35 minutes
+Tool Requirement	1× 2.5mm hex key
+Educational Lifespan	3+ years, 500+ cycles
+Payload Capacity	Up to 150g
 
-* 🔧 **Modular Design**: Replaceable arm, motor, and sensor modules
-* 🧲 **Color-Coded Assembly**: Intuitive visual guidance for students
-* 📏 **Standardized Hardware**: M3 fasteners for universal fit
-* 📦 **Educational Focus**: Budget-aligned for institutional needs
-* 📚 **Well-Documented**: Includes reports, CAD visuals, and presentation decks
+🧠 Key Features
+🔧 Modular Design: Replaceable arm, motor, and sensor modules
 
----
+🧲 Color-Coded Assembly: Intuitive visual guidance for students
 
-## 📄 Documentation
+📏 Standardized Hardware: M3 fasteners for universal fit
 
-* 📘 Project Report: `Documentation/Reports/MicroQuadX250_Project_Report.pdf`
-* 📊 Presentation: `Documentation/Presentations/MicroQuadX250_Presentation_Slides.pdf`
-* 🖼️ CAD Renders: `CAD_Visuals/`
+📦 Educational Focus: Budget-aligned for institutional needs
 
----
+📚 Well-Documented: Includes reports, CAD visuals, and presentation decks
 
-## 🔐 License
+📄 Documentation
+📘 Project Report: Documentation/Reports/MicroQuadX250_Project_Report.pdf
 
-This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, or redistribute with attribution.
+📊 Presentation: Documentation/Presentations/MicroQuadX250_Presentation_Slides.pdf
 
----
+🖼️ CAD Renders: See CAD_Visuals/ folder
 
-## 🙋‍♂️ Author
+🔐 License
+This project is licensed under the MIT License.
+Feel free to use, modify, or redistribute with attribution.
 
-**Siva Srinivasan**
+🙋‍♂️ Author
+Siva Srinivasan
 Educational Technologist | Mechanical Design Enthusiast
-[LinkedIn](https://www.linkedin.com/in/sivasrinivasans) | [GitHub](https://github.com/SivaSrinivasanS)
+🔗 LinkedIn
+🔗 GitHub
 
----
+🚀 Future Scope
+✅ Add manufacturing-ready STLs
 
-## 🚀 Future Scope
+✅ Upload assembly video or animated GIF
 
-* ✅ Add manufacturing-ready STLs
-* ✅ Upload assembly video or animated GIF
-* 🔜 Interactive 3D CAD viewer (using FreeCAD/WebGL export)
-* 🔜 Add simulation results and stress analysis
+🔜 Interactive 3D CAD viewer (FreeCAD/WebGL)
 
----
+🔜 Add simulation results and stress analysis
 
-> 📢 *This project is part of a larger mechanical design portfolio including PACJ (Portable AC Jacket) and HybridMarine-V1. Stay tuned for upcoming releases.*
-
-```
-
+📢 This project is part of a larger mechanical design portfolio including PACJ (Portable AC Jacket) and HybridMarine-V1. Stay tuned for upcoming releases.
