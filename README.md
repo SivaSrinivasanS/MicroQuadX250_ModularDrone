@@ -19,7 +19,6 @@ This repository contains all project documentation, design visuals, and support 
 
 ## 🧰 Repository Structure
 
-```bash
 MicroQuadX250_ModularDrone/
 │
 ├── CAD_Visuals/           # High-quality renders & screenshots
@@ -28,7 +27,7 @@ MicroQuadX250_ModularDrone/
 │   └── Presentations/     # PPT and presentation PDFs
 ├── LICENSE                # MIT License
 ├── README.md              # You're here
-├── .gitignore             # Git ignore rules
+└── .gitignore             # Git ignore rules
 
 ---
 
