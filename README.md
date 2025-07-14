@@ -45,62 +45,59 @@ MicroQuadX250_ModularDrone/
 
 ---
 
-⚙️ Core Specifications
-Parameter	Value
-Diagonal Span	250mm
-Total Weight	320–420g (Ready-to-Fly)
-Flight Time	10–15 minutes
-Assembly Time	25–35 minutes
-Tool Requirement	1× 2.5mm hex key
-Educational Lifespan	3+ years, 500+ cycles
-Payload Capacity	Up to 150g
+## ⚙️ Core Specifications
 
+| Parameter            | Value                    |
+|----------------------|--------------------------|
+| Diagonal Span        | 250mm                    |
+| Total Weight         | 320–420g (Ready-to-Fly)  |
+| Flight Time          | 10–15 minutes            |
+| Assembly Time        | 25–35 minutes            |
+| Tool Requirement     | 1× 2.5mm hex key         |
+| Educational Lifespan | 3+ years, 500+ cycles    |
+| Payload Capacity     | Up to 150g               |
 
-🧠 Key Features
+---
 
-🔧 Modular Design: Replaceable arm, motor, and sensor modules
+## 🧠 Key Features
 
-🧲 Color-Coded Assembly: Intuitive visual guidance for students
+- 🔧 **Modular Design**: Replaceable arm, motor, and sensor modules  
+- 🧲 **Color-Coded Assembly**: Intuitive visual guidance for students  
+- 📏 **Standardized Hardware**: M3 fasteners for universal fit  
+- 📦 **Educational Focus**: Budget-aligned for institutional needs  
+- 📚 **Well-Documented**: Includes reports, CAD visuals, and presentation decks  
 
-📏 Standardized Hardware: M3 fasteners for universal fit
+---
 
-📦 Educational Focus: Budget-aligned for institutional needs
+## 📄 Documentation
 
-📚 Well-Documented: Includes reports, CAD visuals, and presentation decks
+- 📘 **Project Report**: `Documentation/Reports/MicroQuadX250_Project_Report.pdf`  
+- 📊 **Presentation Slides**: `Documentation/Presentations/MicroQuadX250_Presentation_Slides.pdf`  
+- 🖼️ **CAD Renders**: Available in `CAD_Visuals/` folder  
 
+---
 
-📄 Documentation
+## 🔐 License
 
-📘 Project Report: Documentation/Reports/MicroQuadX250_Project_Report.pdf
-
-📊 Presentation: Documentation/Presentations/MicroQuadX250_Presentation_Slides.pdf
-
-🖼️ CAD Renders: See CAD_Visuals/ folder
-
-
-🔐 License
-
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.  
 Feel free to use, modify, or redistribute with attribution.
 
+---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
-Siva Srinivasan
-Educational Technologist | Mechanical Design Enthusiast
-🔗 LinkedIn
-🔗 GitHub
+**Siva Srinivasan**  
+Educational Technologist | Mechanical Design Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/sivasrinivasans)  
+🔗 [GitHub](https://github.com/SivaSrinivasanS)  
 
+---
 
-🚀 Future Scope
+## 🚀 Future Scope
 
-✅ Add manufacturing-ready STLs
+- ✅ Add manufacturing-ready STL files  
+- ✅ Upload assembly video or animated GIF  
+- 🔜 Interactive 3D CAD viewer (FreeCAD/WebGL)  
+- 🔜 Add simulation results and stress analysis  
 
-✅ Upload assembly video or animated GIF
-
-🔜 Interactive 3D CAD viewer (FreeCAD/WebGL)
-
-🔜 Add simulation results and stress analysis
-
-
-📢 This project is part of a larger mechanical design portfolio including PACJ (Portable AC Jacket) and HybridMarine-V1. Stay tuned for upcoming releases.
+> 📢 *This project is part of a larger mechanical design portfolio including PACJ (Portable AC Jacket) and HybridMarine-V1. Stay tuned for upcoming releases.*
